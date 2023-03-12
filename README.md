@@ -67,7 +67,6 @@ mode: single
 1. Install the extension
 2. Right click on the icon and go to "Options"
 3. Place your Webhook URL in there.
-
 It schould look something like this:
 
 ```http://<address of your home assistant instance>[<port>]/api/webhook/<your webhook-id>```
