@@ -1,4 +1,4 @@
-# PostToHub
+# PostToHub (Extension is currently being checked by Google)
 a fast way to transfer your current tab to your Nest-Hub using CATT
 
 Introducing PostToHub - the handy system that empowers Home Assistant users to effortlessly send their browsing tabs directly to their Google Nest Hub with a simple browser extension. Say goodbye to the hassle of manually sharing links and hello to the convenience of seamless integration. With PostToHub, you can easily curate your browsing experience and enhance your smart home setup all at once. 
