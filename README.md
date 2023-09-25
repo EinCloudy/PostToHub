@@ -6,7 +6,7 @@ Introducing PostToHub - the handy system that empowers Home Assistant users to e
 ## Dependencies
 - Home Assistant with CATT
 - Chrome-Extension compatible Browser
-  Download: https://chromewebstore.google.com/detail/posttohub/kjpoelcmdpgknokmingkjojpofnonbhb
+  : https://chromewebstore.google.com/detail/posttohub/kjpoelcmdpgknokmingkjojpofnonbhb
 
 ## Installation of CATT
 1. use the terminal addon from Home assistant
